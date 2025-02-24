@@ -1,0 +1,56 @@
+.footer__info {
+	font-size: 0;
+	color: #ffff;
+}
+
+.footer__info-card {
+	font-size: 10px;
+	display: inline-block;
+	vertical-align: top;
+	width: calc(100%/2);
+	padding-bottom: 60px;
+}
+
+.footer__info-card__title{
+	font-size: 30px;
+	padding: 60px;
+}
+
+.footer__info-card__text {
+	font-size: 15px;
+	padding: 0 10%;
+	line-height: 1.5;
+}
+
+.footer__info-card a {
+	display: inline-block;
+	font-size: 15px;
+	padding-top: 7px;
+	text-decoration: none;
+	color: #ffff;
+}
+
+.info-contact-us {
+	background-color: #009dff;
+}
+
+.info-about-us {
+	background-color: #333;
+}
+
+.footer__info-ordering-by{
+	background-color: #000;
+	color: #ffff;
+	font-size: 0;
+}
+
+.footer__info-ordering-by-component {
+	font-size: 15px;
+	display: inline-block;
+	width: calc(100%/2);
+	padding: 40px;
+}
+
+.footer__info-ordering-by-component span {
+	color: #009dff;
+}

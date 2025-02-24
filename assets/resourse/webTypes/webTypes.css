@@ -1,0 +1,35 @@
+.web__types__info {
+	background-color: #333;
+	font-size: 0;
+	width: 100%;
+	padding: 20px;
+}
+
+.web__types__info img {
+	width: 253px;
+	height: 150px;
+	object-fit: cover;
+	object-position: right;
+}
+
+.types__info-card {
+	background-color: #ffff;
+	font-size: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: calc(100%/5.6);
+	margin: 10px;
+}
+
+.types__info-card-title {
+	padding: 20px;
+	display: inline-block;
+	font-size: 20px;
+}
+
+.types__info-card-text {
+	font-size: 15px;
+	padding-inline: 30px;
+	padding-bottom: 40px;
+}
+
