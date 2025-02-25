@@ -1,33 +1,33 @@
 .footer__info {
-	font-size: 0;
 	color: #ffff;
+	font-size: 0;
 }
 
 .footer__info-card {
-	font-size: 10px;
 	display: inline-block;
-	vertical-align: top;
-	width: calc(100%/2);
+	font-size: 10px;
 	padding-bottom: 60px;
+	vertical-align: top;
+	width: calc(100% / 2);
 }
 
-.footer__info-card__title{
+.footer__info-card__title {
 	font-size: 30px;
 	padding: 60px;
 }
 
 .footer__info-card__text {
 	font-size: 15px;
-	padding: 0 10%;
 	line-height: 1.5;
+	padding: 0 10%;
 }
 
 .footer__info-card a {
+	color: #ffff;
 	display: inline-block;
 	font-size: 15px;
 	padding-top: 7px;
 	text-decoration: none;
-	color: #ffff;
 }
 
 .info-contact-us {
@@ -38,17 +38,17 @@
 	background-color: #333;
 }
 
-.footer__info-ordering-by{
+.footer__info-ordering-by {
 	background-color: #000;
 	color: #ffff;
 	font-size: 0;
 }
 
 .footer__info-ordering-by-component {
-	font-size: 15px;
 	display: inline-block;
-	width: calc(100%/2);
+	font-size: 15px;
 	padding: 40px;
+	width: calc(100% / 2);
 }
 
 .footer__info-ordering-by-component span {

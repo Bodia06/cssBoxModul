@@ -1,24 +1,24 @@
 .web__apliction__development {
-	width: 100%;
 	padding: 50px;
+	width: 100%;
 }
 
 .web__apliction__development-title {
-	padding: 30px;
 	font-size: 30px;
+	padding: 30px;
 }
 
 .web_app_info {
+	font-size: 0;
 	padding-left: 150px;
 	padding-right: 150px;
-	font-size: 0;
 }
 
 .web_app_info-text {
+	display: inline-block;
 	font-size: 15px;
 	line-height: 1.5;
-	display: inline-block;
-	width: 45%;
 	margin: 0 2%;
-	vertical-align: top; 
+	vertical-align: top;
+	width: 45%;
 }
