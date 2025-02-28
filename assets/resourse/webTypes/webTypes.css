@@ -9,7 +9,7 @@
 	height: 150px;
 	object-fit: cover;
 	object-position: right;
-	width: 253px;
+	width: 100%;
 }
 
 .types__info-card {
